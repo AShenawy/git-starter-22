@@ -1,4 +1,4 @@
-This is a very important piece of text.
+Feature B's work also done on first line
 
 A new feature has been added.
 
