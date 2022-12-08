@@ -1,4 +1,5 @@
 Feature A work done on first line
+Feature B's work also done on first line
 
 A new feature has been added.
 
